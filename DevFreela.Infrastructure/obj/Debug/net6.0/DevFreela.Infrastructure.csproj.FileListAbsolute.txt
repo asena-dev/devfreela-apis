@@ -1,0 +1,15 @@
+G:\devfreela-apis\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.deps.json
+G:\devfreela-apis\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+G:\devfreela-apis\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+G:\devfreela-apis\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
+G:\devfreela-apis\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfo.cs
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
+G:\devfreela-apis\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll

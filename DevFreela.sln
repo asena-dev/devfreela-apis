@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.API", "DevFreela.API\DevFreela.API.csproj", "{1F361DF3-F229-4A15-A7A6-E2A6CD892A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.API", "DevFreela.API\DevFreela.API.csproj", "{1F361DF3-F229-4A15-A7A6-E2A6CD892A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Core", "DevFreela.Core\DevFreela.Core.csproj", "{11027C95-F463-4C1C-847C-9DB45036820F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Infrastructure", "DevFreela.Infrastructure\DevFreela.Infrastructure.csproj", "{5461D362-0612-401B-B46C-CB2D3CD29859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Application", "DevFreela.Application\DevFreela.Application.csproj", "{AC5C5DD0-4A7E-41C6-9CFA-F48EC2C1F694}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{1F361DF3-F229-4A15-A7A6-E2A6CD892A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F361DF3-F229-4A15-A7A6-E2A6CD892A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F361DF3-F229-4A15-A7A6-E2A6CD892A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11027C95-F463-4C1C-847C-9DB45036820F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11027C95-F463-4C1C-847C-9DB45036820F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11027C95-F463-4C1C-847C-9DB45036820F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11027C95-F463-4C1C-847C-9DB45036820F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5461D362-0612-401B-B46C-CB2D3CD29859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5461D362-0612-401B-B46C-CB2D3CD29859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5461D362-0612-401B-B46C-CB2D3CD29859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5461D362-0612-401B-B46C-CB2D3CD29859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5C5DD0-4A7E-41C6-9CFA-F48EC2C1F694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5C5DD0-4A7E-41C6-9CFA-F48EC2C1F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5C5DD0-4A7E-41C6-9CFA-F48EC2C1F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5C5DD0-4A7E-41C6-9CFA-F48EC2C1F694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
