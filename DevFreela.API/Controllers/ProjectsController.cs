@@ -10,11 +10,5 @@ namespace DevFreela.API.Controllers
         {
             return Ok();
         }
-        
-        [HttpPost]
-        public IActionResult Put() 
-        { 
-            return Ok();
-        }
     }
 }
