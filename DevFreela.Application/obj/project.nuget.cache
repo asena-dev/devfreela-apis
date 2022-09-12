@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RKphqVZA6zHmGj7Qhf23nXso4RaQQnPpxahR/101d9XAIDyLWkzJbc+hvE1LW1y7xFOFi5mztzD0EEIM6fSFng==",
+  "dgSpecHash": "2medwrbRXpVaPbHGBmSY860b3MIw3gkCfJK0BuxD4C5TInaA3723Ng52IIYWhewvtXiYuBIjFcmHzZH6Bf4+hg==",
   "success": true,
   "projectFilePath": "G:\\devfreela-apis\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asena\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

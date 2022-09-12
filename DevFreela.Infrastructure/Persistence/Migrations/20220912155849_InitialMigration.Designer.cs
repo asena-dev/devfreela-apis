@@ -178,7 +178,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
 
             modelBuilder.Entity("DevFreela.Core.Entities.Project", b =>
                 {
-                    b.HasOne("DevFreela.Core.Entities.User", "Cliente")
+                    b.HasOne("DevFreela.Core.Entities.User", "Client")
                         .WithMany("OwnedProjects")
                         .HasForeignKey("IdCliente")
                         .OnDelete(DeleteBehavior.Restrict)
@@ -190,7 +190,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.Navigation("Cliente");
+                    b.Navigation("Client");
 
                     b.Navigation("Freelancer");
                 });
