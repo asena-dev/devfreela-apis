@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0E5oRAE3j6Q/mo3Up+FzkaprzyXWFNkg7ki7Y7WVGSpmHFBZ90bWebtnvoBWO9ITGPjiKmEzdHYz6T7hnBvo6g==",
+  "dgSpecHash": "TEXIlwTPud5KymecL9T+HD5BxI07WNwGOkAXww2CYb1Z10VlTf12C2BsxZko7DZpVxEbumE3yRz0+/Cz1O5eSw==",
   "success": true,
   "projectFilePath": "G:\\devfreela-apis\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asena\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\asena\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\asena\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
