@@ -99,3 +99,4 @@ G:\devfreela-apis\DevFreela.API\obj\Debug\net6.0\ref\DevFreela.API.dll
 G:\devfreela-apis\DevFreela.API\bin\Debug\net6.0\FluentValidation.dll
 G:\devfreela-apis\DevFreela.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 G:\devfreela-apis\DevFreela.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\devfreela-apis\DevFreela.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
