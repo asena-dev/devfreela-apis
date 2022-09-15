@@ -20,7 +20,7 @@ namespace DevFreela.Infrastructure.Persistence.Configurations
             builder
                 .HasOne(p => p.Client)
                 .WithMany(f => f.OwnedProjects)
-                .HasForeignKey(p => p.IdCliente)
+                .HasForeignKey(p => p.IdClient)
                 .OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(p => p.TotalCost).HasColumnType("decimal(18,4)");

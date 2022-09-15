@@ -37,10 +37,10 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime?>("FinisheAt")
+                    b.Property<DateTime?>("FinishedAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("IdCliente")
+                    b.Property<int>("IdClient")
                         .HasColumnType("int");
 
                     b.Property<int>("IdFreelancer")
@@ -61,7 +61,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("IdCliente");
+                    b.HasIndex("IdClient");
 
                     b.HasIndex("IdFreelancer");
 
@@ -186,7 +186,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                 {
                     b.HasOne("DevFreela.Core.Entities.User", "Client")
                         .WithMany("OwnedProjects")
-                        .HasForeignKey("IdCliente")
+                        .HasForeignKey("IdClient")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 

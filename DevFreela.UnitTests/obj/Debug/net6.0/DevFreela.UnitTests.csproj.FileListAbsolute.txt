@@ -145,3 +145,4 @@ G:\devfreela-apis\DevFreela.UnitTests\obj\Debug\net6.0\DevFreela.UnitTests.genru
 G:\devfreela-apis\DevFreela.UnitTests\obj\Debug\net6.0\ref\DevFreela.UnitTests.dll
 G:\devfreela-apis\DevFreela.UnitTests\bin\Debug\net6.0\Castle.Core.dll
 G:\devfreela-apis\DevFreela.UnitTests\bin\Debug\net6.0\Moq.dll
+G:\devfreela-apis\DevFreela.UnitTests\bin\Debug\net6.0\RabbitMQ.Client.dll
